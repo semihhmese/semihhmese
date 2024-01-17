@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Semih</h1>
-<h3 align="center">A passionate embedded software developer from Turkey</h3>
+<h3 align="center">A passionate embedded software engineer from Turkey</h3>
 
 - 🌱 I’m currently learning **navy communication system.**
 
