@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **navy communication system.**
 
-- 💬 Ask me about **robotics and embedded device.**
+- 💬 Ask me about **embedded systems and autonom system.**
 
 - 📫 How to reach me **semihmese@hotmail.com**
 
