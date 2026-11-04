@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Semih</h1>
 <h3 align="center">A passionate embedded software engineer from Turkey</h3>
 
-- 🌱 I’m currently learning **navy communication system.**
+🌱 I’m currently exploring Edge AI Hardware, Embedded Systems, PCB Design, and System-in-Package (SiP) Architecture.
+💬 Ask me about Embedded Systems, Firmware Engineering, Linux, Hardware-Software Integration, Reverse Engineering, and Autonomous Systems.
 
-- 💬 Ask me about **embedded systems and autonom system.**
-
-- 📫 How to reach me **semihmese@hotmail.com**
+📫 How to reach me **semihmese@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
